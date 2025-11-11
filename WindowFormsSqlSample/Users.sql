@@ -1,3 +1,4 @@
+-- Paste this to MySQL
 CREATE DATABASE Users;
 USE Users;
 
